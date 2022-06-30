@@ -1,0 +1,12 @@
+{
+  "include": ["src", "course"],
+  "compilerOptions": {
+    "outDir": "build",
+    "esModuleInterop": true,
+    "target": "ES6", // 컴파일하여 바꿀 js의 버젼을 정해줌
+    "lib": ["ES6", "DOM"], //js 코드가 어떤 환경에서 작동하는지 알려줌
+    //ex)DOM을 적어주면 querySelector와 같은 브라우저에서 작동할 때 필요한 것들을 자동완성으로 알려줌
+    // "allowJs": true,
+    "strict": true
+  }
+}
