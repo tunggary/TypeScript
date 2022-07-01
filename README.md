@@ -1,5 +1,7 @@
 # Typescript로 블록체인 만들기
 
+** 강의 내용은 course 폴더에 있음 **   
+
 ## Why not Javascript?
 
 **타입 안정성**  
